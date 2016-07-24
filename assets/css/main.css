@@ -1071,6 +1071,9 @@
 		}
 
 /* Panels */
+    .sonnet {
+                padding-left: 30%;
+            }
 
 	#main {
 		position: relative;
@@ -1460,7 +1463,11 @@
 				header > p {
 					margin: 0.5em 0 0 0;
 				}
-
+        
+            .sonnet {
+                padding-left: 0;
+            }
+            
 		/* Table */
 
 			table.style1 {
